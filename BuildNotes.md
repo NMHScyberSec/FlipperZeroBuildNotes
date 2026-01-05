@@ -1,4 +1,4 @@
-# archAhazi's Notes on modifying firmware for the Flipper Zero
+Notes on modifying firmware for the Flipper Zero
 
 I am using Windows 10 (64-bit) on a laptop
 
